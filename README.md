@@ -28,15 +28,3 @@ Welcome to the AI Calendar project! This project aims to create an intelligent c
     npm start
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
-
-## Contributing
-
-We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or suggestions, please open an issue or contact us at support@aicalendar.com.
